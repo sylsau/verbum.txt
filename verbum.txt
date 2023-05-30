@@ -8,7 +8,8 @@ esthétique à la fois élégante et lisible.
 
   Tandis que cela est un paragraphe, avec un léger retrait de deux espaces sur 
 la première ligne. On pourrait d'ailleurs ne faire qu'un retrait d'un seul 
-espace seulement, le fait qu'on en fasse deux est purement arbitraire.
+espace seulement, ou bien aucun ; le fait qu'on en fasse deux est purement 
+arbitraire.
 
   Tous les paragraphes sont justifiés. nano est l'éditeur de choix pour écrire 
 ce genre de textes. C'est un éditeur simple, accessible et terriblement 
@@ -28,17 +29,17 @@ l'affaire !
   Autre qualité de la typographie "à l'ancienne", ses ornements qui, en plus 
 d'être utiles, embellissent le texte à peu de frais. Le couillard peut être 
 aussi simple que joli. On peut insérer facilement un astérisme avec nano, 
-grâce à la fonction "verbatim" (^V) qui permet de rentrer le code Unicode du 
+grâce à la fonction "verbatim" (M-V) qui permet de rentrer le code Unicode du 
 caractère (2042 pour l'astérisme).
 
 ⁂
 
-On peut convenir, si le besion s'en fait sentir, d'espacer les titres du 
+ On peut convenir, si le besion s'en fait sentir, d'espacer les titres du 
 paragraphe qui le précède pour rendre la lecture plus clair. Voyez ci-dessous.
 
 
 	II.
 	DU DEUXIÈME TITRE DE CE TEXTE
 
-Ici, on voit directement qu'il s'agit d'une section à part grâce au double 
+ Ici, on voit directement qu'il s'agit d'une section à part grâce au double 
 espacement précédent le titre.
